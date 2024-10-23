@@ -1,0 +1,21 @@
+name: Hgb; range: 13.8, 17.2; unit: g/dL, 00-03-04
+name: BGT; range: 70.0, 99.0; unit: mg/dL, 00-12-06
+name: LDL; range: 100.0; unit: mg/dL, 00-17-06
+name: diastole; range: 5.0, 100.0; unit: ml, 03-09-05
+name: systole; range: 5.0, 100.0; unit: Hg, 00-08-04
+name: as; range: 32.0, 54.0; unit: mg/ll, 12-12-12
+name: PLASD; range: 133.0, 32.0; unit: 11, 11-12-12
+name: Hgb; range: 13.8, 17.2; unit: g/dL, 00-03-04
+name: BGT; range: 70.0, 99.0; unit: mg/dL, 00-12-06
+name: LDL; range: 100.0; unit: mg/dL, 00-17-06
+name: diastole; range: 5.0, 100.0; unit: ml, 03-09-05
+name: systole; range: 5.0, 100.0; unit: Hg, 00-08-04
+name: as; range: 32.0, 54.0; unit: mg/ll, 12-12-12
+name: plss; range: 12.0; unit: llff, 12-12-12
+name: Hgb; range: 13.8, 17.2; unit: g/dL, 00-03-04
+name: BGT; range: 70.0, 99.0; unit: mg/dL, 00-12-06
+name: LDL; range: 100.0; unit: mg/dL, 00-17-06
+name: diastole; range: 5.0, 100.0; unit: ml, 03-09-05
+name: systole; range: 5.0, 100.0; unit: Hg, 00-08-04
+name: as; range: 32.0, 54.0; unit: mg/ll, 12-12-12
+name: plss; range: 12.0; unit: llff, 12-12-12

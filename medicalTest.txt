@@ -1,0 +1,5 @@
+Name: hgggb (Hgb); Range: > 34.0, < 36.0; Unit: gll, 00-03-04
+Name: Blood Glucose Test (BGT); Range: > 70.0; Unit: mg/dL, 00-12-06
+Name: LDL Cholesterol Low-Density Lipoprotein (LDL); Range: > 100.0; Unit: mg/dL, 00-17-06
+Name: Diastole (diastole); Range: > 5.0; Unit: ml, 03-09-05
+Name: Systolic Blood Pressure (systole); Range: > 120.0; Unit: mm Hg, 00-08-04
